@@ -1,1 +1,1 @@
-# ComputerStructure
+#Computer architecture
